@@ -1,2 +1,6 @@
 hello file2
+<<<<<<< HEAD
 48656
+=======
+hello there update
+>>>>>>> f2
